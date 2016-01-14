@@ -4,6 +4,8 @@ Is to be shared as a reference for [boot check](https://github.com/tolitius/boot
 
 ### How to Play
 
+clone me and:
+
 ```bash
 $ boot check/with-eastwood
 == Eastwood 0.2.3 Clojure 1.7.0 JVM 1.8.0_20
