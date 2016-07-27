@@ -1,7 +1,7 @@
 (set-env!
   :source-paths #{"src"}
-  :dependencies '[[boot/core              "2.5.1"           :scope "provided"]
-                  [tolitius/boot-check    "0.1.1"           :scope "test"]])
+  :dependencies '[[boot/core              "2.6.0"           :scope "provided"]
+                  [tolitius/boot-check    "0.1.3-SNAPSHOT"  :scope "test"]])
 
 (require '[tolitius.boot-check :as check])
 
